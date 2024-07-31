@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red">Support Vector Machine</h1>
+<h1 align="center" style="text-color:red">Support Vector Machine</h1>
 classification matrix :- 
 [[ 55   5]
  [  8 120]]
