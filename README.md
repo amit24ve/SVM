@@ -1,3 +1,5 @@
+<h1>Support Vector Machine</h1>
+classification matrix :- 
 [[ 55   5]
  [  8 120]]
               precision    recall  f1-score   support
